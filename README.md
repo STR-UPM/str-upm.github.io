@@ -1,8 +1,6 @@
-# Embedded systems projects
-
 This site contains some laboratory projects on real-time embbeded systems using Ada and some commercial ARM-based microcontrollers.
 
-# Real-Time Embedded systems
+## Real-Time Embedded systems
 
 **Real-time systems** are computer systems that carry out some actions in specified time intervals. The most common forms of real-time specifications are:
 
@@ -14,9 +12,9 @@ This site contains some laboratory projects on real-time embbeded systems using 
    relative to the time when the action is released for execution.
 
 **Embedded systems** are computer systems that perform information processing or control functions within a larger engineering system. Many embedded systems have real-time constraints.
+s
 
 
-
-### Support or Contact
+### Support and Contact
 
 This site is maintained by [Juan Antonio de la Puente](mailto:jpuente@dit.upm.es) and the [STRAST research group](https://www.dit.upm.es/~str/).
