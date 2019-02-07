@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Embedded systems projects
 
-You can use the [editor on GitHub](https://github.com/STR-UPM/str-upm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site contains some laboratory projects on real-time embbeded systems using Ada and some commercial ARM-based microcontrollers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Real-Time Embedded systems
 
-### Markdown
+**Real-time systems** are computer systems that carry out some actions in specified time intervals. The most common forms of real-time specifications are:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Execution patterns
+   * _Periodic actions_, which are required to be executed at regular time intervals.
+   * _Sporadic actions_, which are required to be executed whenever a given event occurs.
+* Deadlines
+   * A _deadline_ specification marks the time by which an action must be completed.
+   relative to the time when the action is released for execution.
 
-```markdown
-Syntax highlighted code block
+**Embedded systems** are computer systems that perform information processing or control functions within a larger engineering system. Many embedded systems have real-time constraints.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/STR-UPM/str-upm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site is maintained by [Juan Antonio de la Puente](mailto:jpuente@dit.upm.es) and the [STRAST research group](https://www.dit.upm.es/~str/).
