@@ -1,4 +1,4 @@
-This site contains some laboratory projects on real-time embbeded systems using Ada and some commercial ARM-based microcontrollers.
+This site contains some laboratory projects of real-time embbeded systems using Ada and some commercial ARM-based microcontrollers.
 
 ## Real-Time Embedded systems
 
@@ -12,8 +12,6 @@ This site contains some laboratory projects on real-time embbeded systems using 
    relative to the time when the action is released for execution.
 
 **Embedded systems** are computer systems that perform information processing or control functions within a larger engineering system. Many embedded systems have real-time constraints.
-s
-
 
 ### Support and Contact
 
