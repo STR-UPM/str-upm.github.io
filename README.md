@@ -1,5 +1,11 @@
 This site contains some laboratory projects of real-time embbeded systems using Ada and some commercial ARM-based microcontrollers.
 
+* [Project repository](https://github.com/STR-UPM/Embedded_Ada_Examples)
+
+* GNAT Ada compilers at the [AdaCore Community Site](https://www.adacore.com/ommunity)
+
+* [Getting started with the Ada Drivers Library device drivers](https://blog.adacore.com/getting-started-with-the-ada-drivers-library-device-drivers)
+
 ## Real-Time Embedded systems
 
 **Real-time systems** are computer systems that carry out some actions in specified time intervals. The most common forms of real-time specifications are:
